@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mill-area
 - 👀 I’m interested in Mathematics
-- 🌱 I’m currently learning Pythin
+- 🌱 I’m currently learning Python
 - 🪐 ...
 
 <!---
